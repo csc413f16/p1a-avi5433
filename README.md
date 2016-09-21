@@ -1,8 +1,8 @@
-Name:
+Name: Avneesh Setia
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes  - Tested on Nexus 5X marshmallow emulator
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes (local test exited with code 0)
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
